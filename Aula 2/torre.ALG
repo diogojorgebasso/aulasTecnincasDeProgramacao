@@ -1,5 +1,5 @@
 Algoritmo "Torre_tangente"
-// Disciplina  :  [Linguagem e Lógica de Programa��o] 
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM 
 // Descri��o   : Cálculo da altura de uma torre baseado no ângulo e o tamanho de sombra; cálculo da tangente, no limite.
 // Autor(a)    : Diogo Jorge Basso

@@ -1,5 +1,5 @@
 Algoritmo "area_circulo"
-// Disciplina  : [Linguagem e Lógica de Programa��o]
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
 // Descri��o   : Cálculo de área baseado no raio do círculo
 // Autor(a)    : Diogo Jorge Basso

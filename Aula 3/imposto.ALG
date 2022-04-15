@@ -1,5 +1,5 @@
 Algoritmo "concessionaria"
-// Disciplina  :  [Linguagem e Lógica de Programa��o]
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
 // Descrição   : Dado uma tabela de opções de carro, o usuário escolhe e digita o preço a ser pago.
 // Autor(a)    : Diogo Jorge Basso
@@ -9,7 +9,7 @@ Var
 
 Inicio
    // Seção de Comandos, procedimento, fun��es, operadores, etc...
-   escreval("CONCESSION�RIO DO DIOGO")
+   escreval("CONCESSIONÁRIA DO DIOGO")
    escreval("Digite a opção...")
    escreval("1- Carro(car)")
    escreval("2- Moto(motorcycle)")

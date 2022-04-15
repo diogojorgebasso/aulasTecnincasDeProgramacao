@@ -1,5 +1,5 @@
 Algoritmo "notas"
-// Disciplina  :  [Linguagem e L�gica de Programa��o] 
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
 // Descri��o   : Cálculo de quantas notas serão necessárias para, dado um valor, achar-lhe. 
 // Autor(a)    : Diogo Jorge Basso

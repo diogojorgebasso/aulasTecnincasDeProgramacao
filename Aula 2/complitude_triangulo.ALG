@@ -1,5 +1,5 @@
 Algoritmo "complitude_triangulo"
-// Disciplina  :  [Linguagem e L�gica de Programa��o] 
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM 
 // Descri��o   : Dado dois lados e um ângulo, achar o restante das informações para a complitude do triângulo
 // Autor(a)    : Diogo Jorge Basso

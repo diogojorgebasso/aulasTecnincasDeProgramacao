@@ -1,5 +1,5 @@
 Algoritmo "Grau_rad"
-// Disciplina  :  [Linguagem e Lógica de Programa��o] 
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM 
 // Descrição   : Transformação de ângulo de grau para radiano.
 // Autor(a)    : Diogo Jorge Basso

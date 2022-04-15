@@ -1,5 +1,5 @@
 Algoritmo "semnome"
-// Disciplina  : [Linguagem e L�gica de Programa��o]
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
 // Descrição   : Checagem de nota
 // Autor(a)    : Diogo Jorge Basso
@@ -23,5 +23,5 @@ Inicio
          escreva("C é MAIOR")
       fimse
    fimse
-   
+
 Fimalgoritmo

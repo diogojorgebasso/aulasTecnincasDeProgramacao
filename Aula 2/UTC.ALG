@@ -1,5 +1,5 @@
 Algoritmo "UTC"
-// Disciplina  :  [Linguagem e L�gica de Programa��o] 
+// Disciplina  : [Linguagem e Lógica de Programação] 
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM 
 // Descri��o   : Transformação de segundos no padrão UTC.
 // Autor(a)    : Diogo Jorge Basso
