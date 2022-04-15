@@ -1,11 +1,12 @@
 Algoritmo "semnome"
-// Disciplina  : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Checagem de média
+// Disciplina  : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
+// Professor   : THATYANA DE FARIA PIOLA SERAPHIM
+// DescriÃ§Ã£o   : Checagem de nota
 // Autor(a)    : Diogo Jorge Basso
 // Data atual  : 13/04/2022
 Var
    a,b,c: real
+
 Inicio
    escreva("Digite a nota1:  ")
    leia(a)
@@ -14,12 +15,13 @@ Inicio
    escreva("Digite a nota3:  ")
    leia(c)
    se(a>b) e (a>c) entao {checagem da condicional}
-      escreva("A é maior")
+      escreva("A Ã© maior")
    senao
       se(b>c) entao
-         escreva("B é MAIOR")
+         escreva("B Ã© MAIOR")
       senao
-         escreva("C é MAIOR")
+         escreva("C Ã© MAIOR")
       fimse
    fimse
+   
 Fimalgoritmo
