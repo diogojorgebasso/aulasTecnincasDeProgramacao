@@ -1,35 +1,35 @@
-Algoritmo "semnome"
-// Disciplina  : [Linguagem e Lógica de Programação]
+Algoritmo "divisao"
+// Disciplina  : [Linguagem e LÃ³gica de Programaï¿½ï¿½o]
 // Professor   : Thatyana de Faria Piola Seraphim
-// Descrição   : O algoritmo deverá verificar se o número digitado é: positivo ou negativo; se é divisíve por 2, 3, 5, 7, 11.
+// DescriÃ§Ã£o   : O algoritmo deverÃ¡ verificar se o nÃºmero digitado: positivo ou negativo; se Ã© divisÃ­vel por 2, 3, 5, 7, 11.
 // Autor(a)    : Diogo Jorge Basso
 // Data atual  : 18/04/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    n: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreva("Digite o número")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   escreva("Digite o nÃºmero")
    leia(n)
    se n>0 entao
-      escreval("O número é positivo")
+      escreval("O nÃºmero Ã© positivo")
    senao
-      escreval("O número é negativo")
+      escreval("O nÃºmero Ã© negativo")
    fimse
       se n%2=0 entao
-         escreval("O número é divisível por 2")
+         escreval("O nÃºmero Ã© divisÃ­vel por 2")
       fimse
       se n%3=0 entao
-         escreval("O número é divisível por 3")
+         escreval("O nÃºmero Ã© divisÃ­vel por 3")
       fimse
       se n%5=0 entao
-         escreval("O número é divisível por 5")
+         escreval("O nÃºmero Ã© divisÃ­vel por 5")
       fimse
       se n%7=0 entao
-         escreval("O número é divisível por 7")
+         escreval("O nÃºmero Ã© divisÃ­vel por 7")
       fimse
       se n%11=0 entao
-         escreval("O número é divisível por 11")
+         escreval("O nÃºmero Ã© divisÃ­vel por 11")
       fimse
 Fimalgoritmo
