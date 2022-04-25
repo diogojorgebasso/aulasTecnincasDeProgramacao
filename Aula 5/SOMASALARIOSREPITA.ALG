@@ -1,7 +1,7 @@
 Algoritmo "somaSalarios"
 // Disciplina  : [Linguagem e L�gica de Programa��o]
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
-// Descri��o   : Soma dos sal�rios
+// Descri��o   : Variação do algoritmo "SomaSalarios" com estrutura de repetição.
 // Autor(a)    : Diogo Jorge Basso
 // Data atual  : 20/04/2022
 Var

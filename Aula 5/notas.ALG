@@ -1,5 +1,5 @@
-Algoritmo "semnome"
-// Disciplina  :  [Linguagem e L�gica de Programa��o]
+Algoritmo "notas"
+// Disciplina  : [Linguagem e Lógica de Programa��o]
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
 // Descri��o   : Média das notas de um dado aluno
 // Autor(a)    : Diogo Jorge Basso

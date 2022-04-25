@@ -13,7 +13,7 @@ Inicio
    escreval("Digite a opção...")
    escreval("1- Carro(car)")
    escreval("2- Moto(motorcycle)")
-   escreval("3- Caminh�o(truck)")
+   escreval("3- Caminhão(truck)")
    escreval("4- ôniubs(bus)")
    escreval("5- SUV(SUV)")
    escreval("6- Triciclo(Tricycle)")

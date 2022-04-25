@@ -1,7 +1,7 @@
 Algoritmo "triplo"
 // Disciplina  :  [Linguagem e Lógica de Programa��o]
 // Professor   : THATYANA DE FARIA PIOLA SERAPHIM
-// Descri��o   : Aqui voc� descreve o que o programa faz! (fun��o)
+// Descri��o   : Dado um número, calcula-se a soma dos triplos.
 // Autor(a)    : Diogo Jorge Basso
 // Data atual  : 20/04/2022
 Var
