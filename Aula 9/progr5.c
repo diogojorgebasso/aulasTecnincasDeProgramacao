@@ -1,14 +1,9 @@
 #include <stdio.h>
+
 int main(int argc, char *argv[]){
-    char nome;
-    printf("Digite o seu nome:");
-    scanf("%c", &nome);
-    if(nome = "vinicius"){
-        printf("Tu é gay.");
-    }
-    else{
-        printf("Tu é homem.");
-    }
+    int n;
+    printf("Núnero = ");
+    scanf("%d", &n);
+    printf("valor de n=%d, no endereco %u \n", n, &n);
     return 0;
 }
-
