@@ -6,7 +6,7 @@ typedef struct{
     float saldo;
 }stContaCliente;
 
-#define NUMBER_OF_ClIENTS 2+1
+#define NUMBER_OF_ClIENTS 15+1
 
 typedef enum{false, true} bool;
 
@@ -45,7 +45,7 @@ int main(int argc, char*argv[]){
     int numConta;
     int maxCadastro=0;
     stContaCliente cliente;
-    stContaCliente clientes[30]; //definir trinta posições no vetor de clientes
+    stContaCliente clientes[30]; //definir trinta posiï¿½ï¿½es no vetor de clientes
     char clienteBuscado[30];
     float currentSaldo;
     int posicaoClientesParaDelecao;
