@@ -5,4 +5,4 @@ struct seriesTv{
     int temporada;
     float preco;
     char dataCompra[8];
-}
+};
