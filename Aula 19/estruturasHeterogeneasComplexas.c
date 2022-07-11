@@ -6,7 +6,7 @@ typedef struct {
     int temporada;
     float preco;
     char Siglaestado[2];
-}endereco;
+}t_item;
 
 int main(int argc, char *argv[]){
     int i;
